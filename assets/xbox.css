@@ -1,7 +1,23 @@
 :root {
     --primary-color: #0d8c08;
-    --secondary-color: #11730e;
+    --second-color: #11730e;
     --tertiary-color: #245922;
     --quaternary-color: #c4f2bd;
     --quinary-color: #f2f2f2;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.carousel-inner{
+    width: 100%;
+}
+
+.card {
+    width: 35%;
+    height: 600px;
 }
