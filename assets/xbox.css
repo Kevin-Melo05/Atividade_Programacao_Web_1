@@ -9,3 +9,27 @@
 .carousel-item img {
     height: 600px;
 }
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #c4f2bd;
+  }
+
+.card-img-top{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+}
+
+h4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.btn {
+    background-color: #0d8c08;
+}
