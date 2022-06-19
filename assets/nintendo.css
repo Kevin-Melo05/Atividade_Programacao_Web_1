@@ -11,3 +11,8 @@
 .carousel-item img{
     height: 600px;
 }
+
+.card-buy-btn a {
+    background-color: red;
+    border-color: red;
+}
