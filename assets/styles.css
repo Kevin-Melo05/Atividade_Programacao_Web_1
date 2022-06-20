@@ -2,3 +2,7 @@
     --primary-font-style: 'Roboto';
     --second-font-style: 'Arial';
 }
+
+.navbar-brand img {
+    margin-right: 7px;
+}
