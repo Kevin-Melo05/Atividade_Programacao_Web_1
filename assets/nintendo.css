@@ -8,11 +8,47 @@
     --septenary-color: #000000;
 }
 
+.navbar-brand img {
+    margin-right: 7px;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #FF4554;
+}
+
+.card {
+    padding-top: 8px;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .carousel-item img{
     height: 600px;
 }
 
 .card-buy-btn a {
-    background-color: red;
+    background-color: #E60013;
+    border-color: #E60013;
+}
+
+h4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.btn-primary:hover {
+    background-color: #ff0000;
     border-color: red;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
