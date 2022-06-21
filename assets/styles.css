@@ -6,3 +6,15 @@
 .navbar-brand img {
     margin-right: 7px;
 }
+
+#playstation {
+    background-color: #035AA6;
+}
+
+#xbox {
+    background-color: #11730e;
+}
+
+#nintendo {
+    background-color: #E60013;
+}
