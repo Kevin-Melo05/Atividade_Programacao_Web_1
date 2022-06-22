@@ -24,6 +24,11 @@
     background-color: #E60013;
 }
 
+footer {
+    margin: 0;
+    padding: 0;
+}
+
 .insta {
     filter: invert(100%);
 }
@@ -34,4 +39,11 @@
 
 .logorodape {
     margin: 5px;
+}
+
+.conteudo-playstation, .conteudo-xbox, .conteudo-nintendo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
