@@ -6,6 +6,11 @@
     --quinary-color: #f2f2f2;
 }
 
+.navbar {
+    height: 100px;
+    font-size: larger;
+}
+
 .navbar-brand img {
     margin-right: 7px;
 }
@@ -49,5 +54,17 @@ h4 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.insta {
+    filter: invert(100%);
+}
+
+.rodapeetec {
+    margin-left: 10px;
+}
+
+.logorodape {
+    margin: 5px;
 }
 

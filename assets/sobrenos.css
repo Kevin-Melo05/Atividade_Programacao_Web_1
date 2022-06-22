@@ -1,3 +1,8 @@
+.navbar {
+    height: 100px;
+    font-size: larger;
+}
+
 .navbar-brand img {
     margin-right: 7px;
 }
@@ -93,4 +98,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.insta {
+    filter: invert(100%);
+}
+
+.rodapeetec {
+    margin-left: 10px;
+}
+
+.logorodape {
+    margin: 5px;
 }
