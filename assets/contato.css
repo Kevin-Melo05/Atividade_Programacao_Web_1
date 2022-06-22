@@ -85,7 +85,7 @@
     cursor: pointer;
 }
 
-.insta:hover {
+.instagram:hover {
     background-image: linear-gradient(115deg, rgb(126, 3, 126), rgb(236, 83, 108), rgb(241, 206, 48));
     border: 1px solid black;
 }
