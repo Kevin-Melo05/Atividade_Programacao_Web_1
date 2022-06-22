@@ -3,6 +3,11 @@
     --second-font-style: 'Arial';
 }
 
+.navbar {
+    height: 100px;
+    font-size: larger;
+}
+
 .navbar-brand img {
     margin-right: 7px;
 }
@@ -17,4 +22,16 @@
 
 #nintendo {
     background-color: #E60013;
+}
+
+.insta {
+    filter: invert(100%);
+}
+
+.rodapeetec {
+    margin-left: 10px;
+}
+
+.logorodape {
+    margin: 5px;
 }
