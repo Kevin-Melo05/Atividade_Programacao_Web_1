@@ -3,6 +3,10 @@
     --second-font-style: 'Arial';
 }
 
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
 .navbar {
     height: 100px;
     font-size: larger;
@@ -10,6 +14,10 @@
 
 .navbar-brand img {
     margin-right: 7px;
+}
+
+.lema{
+    color: #000000;
 }
 
 #playstation {
