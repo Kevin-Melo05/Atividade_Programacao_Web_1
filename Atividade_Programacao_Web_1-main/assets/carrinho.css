@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+}
+
+#tudo {
+    min-height: 100%;
+    position: relative;
+}
+
+.conteudo {
+    padding-bottom: 30px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.navbar {
+    font-size: larger;
+}
+
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar-brand img {
+    margin-right: 7px;
+}
+
+.insta {
+    filter: invert(100%);
+}
+
+.rodapeetec {
+    margin-left: 10px;
+}
+
+.logorodape {
+    margin: 5px;
+}
