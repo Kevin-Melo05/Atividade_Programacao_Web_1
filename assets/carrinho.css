@@ -1,5 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+#tudo {
+    min-height: 100%;
+    position: relative;
+}
+
+.conteudo {
+    padding-bottom: 30px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+
 .navbar {
-    height: 100px;
     font-size: larger;
 }
 
