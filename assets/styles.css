@@ -68,13 +68,18 @@ body{
     height: 20px;
 }
 
+.menu-logo{
+    width: 30px;
+    height: 30px;
+}
+
 @media (min-width: 576px){
     body{
         font-family: 'Rubik';
     }
 
     .lema{
-        font-size: 24px;
+        font-size: 20px;
     }
 
     .kratos-img {
@@ -122,11 +127,6 @@ body{
         height:200px;
     }
 
-    .rodapeetec {
-        margin-left: 10px;
-        font-size: 24px;
-    }
-
     .logorodape{
         width:80px; 
         height:80px;
@@ -136,6 +136,11 @@ body{
     .insta-img{
         width: 30px;
         height: 30px;
+    }
+
+    .menu-logo{
+        width:65px;
+        height:65px;
     }
 }
 
@@ -167,13 +172,6 @@ footer {
 .insta {
     filter: invert(100%);
 }
-
-.rodapeetec {
-    margin-left: 5px;
-    font-size: 10px;
-}
-
-
 
 .conteudo-playstation, .conteudo-xbox, .conteudo-nintendo {
     display: flex;
