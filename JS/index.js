@@ -580,7 +580,7 @@ $(document).ready(
                 let inputccv = $('#inputccv').val()
                 if (inputnome != '' && inputemail != '' && inputcartao != '' && inputvalidade != '' && inputccv != '') {
                     $('.inserir-compras').html(obrigado + '\nObrigado por comprar com a gente!!!')
-                    localStorage.clear(carrinhodados)
+                    localStorage.clear(dados)
                     localStorage.clear(preco)
                     setTimeout(function(){
                         location.reload(true)
