@@ -1,5 +1,6 @@
-body{
+body, .card{
     font-family: 'Rubik', sans-serif;
+    background-color: darkgrey;
 }
 
 .navbar {
