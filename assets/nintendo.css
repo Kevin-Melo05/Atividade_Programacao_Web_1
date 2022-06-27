@@ -42,7 +42,7 @@ body{
     height: 700px;
 }
 
-.card-buy-btn a {
+.card-buy-btn .btn{
     background-color: #E60013;
     border-color: #E60013;
 }
