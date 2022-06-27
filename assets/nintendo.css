@@ -39,7 +39,7 @@ body{
 }
 
 .carousel-item img{
-    height: 700px;
+    height: 200px;
 }
 
 .card-buy-btn .btn{
@@ -78,4 +78,10 @@ footer {
 
 .logorodape {
     margin: 5px;
+}
+
+@media (min-width: 576px){
+    .carousel-item img {
+        height: 500px;
+    }
 }

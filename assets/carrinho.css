@@ -29,7 +29,12 @@ body{
     width: 100px;
 }
 
-.insta {
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.insta, .logo {
     filter: invert(100%);
 }
 
@@ -40,6 +45,8 @@ body{
 .logorodape {
     margin: 5px;
 }
+
+
 
 @media (min-width: 576px){
     .inserir img{

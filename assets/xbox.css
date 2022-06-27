@@ -7,7 +7,7 @@
 }
 
 body{
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif
 }
 
 .navbar {
@@ -19,7 +19,7 @@ body{
 }
 
 .carousel-item img {
-    height: 700px;
+    height: 200px;
 }
 
 .card {
@@ -78,3 +78,8 @@ footer {
     margin: 5px;
 }
 
+@media (min-width: 576px){
+    .carousel-item img {
+        height: 500px;
+    }
+}
