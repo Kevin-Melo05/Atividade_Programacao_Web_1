@@ -1,31 +1,32 @@
-html, body {
-    height: 100%;
+
+body{
+    font-family: 'rubik';
+    background-color: darkgrey;
 }
 
-#tudo {
-    min-height: 100%;
-    position: relative;
+.row {
+    margin: 0;
+    padding: 0;
 }
 
-.conteudo {
-    padding-bottom: 30px;
-}
 
-footer {
-    position: absolute;
-    bottom: 0;
+
+.js {
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #fff;
 }
 
 .navbar {
     font-size: larger;
 }
 
-body{
-    font-family: 'Rubik', sans-serif;
-}
-
 .navbar-brand img {
     margin-right: 7px;
+}
+
+.inserir img {
+    width: 100px;
 }
 
 .insta {
@@ -38,4 +39,10 @@ body{
 
 .logorodape {
     margin: 5px;
+}
+
+@media (min-width: 576px){
+    .inserir img{
+        width: 200px;
+    }
 }
