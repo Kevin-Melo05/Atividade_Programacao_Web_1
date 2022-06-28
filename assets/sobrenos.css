@@ -37,6 +37,8 @@ body, .card{
 
 .passo {
     margin-top: 45px;
+    display: flex;
+    justify-content: center;
 }
 
 .card {
